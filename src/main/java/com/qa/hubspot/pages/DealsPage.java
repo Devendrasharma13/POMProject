@@ -26,4 +26,9 @@ public class DealsPage {
 	
 	public void homepage_url(){
 	}
+
+	public void homepage_masterurl(){
+	}
+
+	
 }
