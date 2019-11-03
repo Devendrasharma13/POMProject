@@ -19,4 +19,8 @@ public class DealsPage {
 	public String getDealPageTitle() {
 		return driver.getTitle();
 	}
+	
+	public String printFun(){
+		System.out.println("Hello World!");
+	}
 }
