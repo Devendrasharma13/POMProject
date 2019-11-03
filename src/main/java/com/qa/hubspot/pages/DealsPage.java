@@ -23,4 +23,7 @@ public class DealsPage {
 	public String printFun(){
 		System.out.println("Hello World!");
 	}
+	
+	public void homepage_url(){
+	}
 }
