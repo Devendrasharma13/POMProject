@@ -32,7 +32,6 @@ public class DealsPage {
 	}
 
 	public void dealPageChecklink() {
-		System.out.println("this is for git ");
 		
 	}
 	
