@@ -28,7 +28,12 @@ public class DealsPage {
 	}
 
 	public void homepage_masterurl(){
+		System.out.println("Implemented.....");
 	}
 
+	public void dealPageChecklink() {
+		System.out.println("this is for git ");
+		
+	}
 	
 }
