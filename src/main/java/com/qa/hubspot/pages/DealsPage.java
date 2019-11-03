@@ -20,7 +20,7 @@ public class DealsPage {
 		return driver.getTitle();
 	}
 	
-	public String printFun(){
+	public void printFun(){
 		System.out.println("Hello World!");
 	}
 	
