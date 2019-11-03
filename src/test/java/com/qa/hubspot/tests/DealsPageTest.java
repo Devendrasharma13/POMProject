@@ -6,7 +6,8 @@ public class DealsPageTest {
 	
 	@Test
 	public void titleTest() {
-		System.out.println("Deals Page test...");
+		System.out.println("Deals Page test");
+		System.out.println("this is a test");
 	}
 
 }

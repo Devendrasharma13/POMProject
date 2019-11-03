@@ -9,7 +9,9 @@ public class DealsPage {
 	public DealsPage() {
 		this.driver = driver;
 	}
-	
+	/**
+	 * this is for create deal
+	 */
 	public void createDeal() {
 		System.out.println("create deal...");
 	}
